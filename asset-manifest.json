@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Portfolio/static/js/main.9d81a68d.js",
+    "main.js": "/Portfolio/static/js/main.ec673f10.js",
     "static/media/KIDIST_SAMUEL_CV.pdf": "/Portfolio/static/media/KIDIST_SAMUEL_CV.629786f6fe943eadb7c6.pdf",
     "static/media/HeroImage.jpg": "/Portfolio/static/media/HeroImage.584f85e6052da104f5d7.jpg",
     "index.html": "/Portfolio/index.html",
     "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
-    "main.9d81a68d.js.map": "/Portfolio/static/js/main.9d81a68d.js.map"
+    "main.ec673f10.js.map": "/Portfolio/static/js/main.ec673f10.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.9d81a68d.js"
+    "static/js/main.ec673f10.js"
   ]
 }
